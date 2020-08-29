@@ -7,7 +7,8 @@
       "subcategory": "fashion",
       "price": 1993000,
       "discount": 3000,
-      "photo": "80142445932_02.svg"
+      "photo": "80142445932_02.svg",
+      "date": "2020-01-23T18:25:43.511Z"
     },
     {
       "id": 2,
@@ -16,7 +17,9 @@
       "subcategory": "fashion",
       "price": 13000,
       "discount": 300,
-      "photo": "80142445969_01.svg"
+      "photo": "80142445969_01.svg",
+      "date": "2020-02-23T18:25:43.511Z"
+
     },
     {
       "id": 3,
@@ -25,7 +28,8 @@
       "subcategory": "fashion",
       "price": 234000,
       "discount": 12342,
-      "photo": "80142446347_01.svg"
+      "photo": "80142446347_01.svg",
+      "date": "2020-03-23T18:25:43.511Z"
     },
     {
       "id": 4,
@@ -34,7 +38,9 @@
       "subcategory": "fashion",
       "price": 1993000,
       "discount": 0,
-      "photo": "80142446411_01.svg"
+      "photo": "80142446411_01.svg",
+      "date": "2020-04-23T18:25:43.511Z"
+
     },
     {
       "id": 5,
@@ -43,7 +49,8 @@
       "subcategory": "fashion",
       "price": 1993000,
       "discount": 0,
-      "photo": "80212454645_01.svg"
+      "photo": "80212454645_01.svg",
+      "date": "2020-05-23T18:25:43.511Z"
     },
     {
       "id": 6,
@@ -52,7 +59,8 @@
       "subcategory": "miscellaneous",
       "price": 293000,
       "discount": 19930,
-      "photo": "80212454645_01.svg"
+      "photo": "80212454645_01.svg",
+      "date": "2020-06-23T18:25:43.511Z"
     },
     {
       "id": 7,
@@ -61,7 +69,8 @@
       "subcategory": "fashion",
       "price": 199398,
       "discount": 1993,
-      "photo": "80222445947_01.svg"
+      "photo": "80222445947_01.svg",
+      "date": "2020-07-23T18:25:43.511Z"
     },
     {
       "id": 8,
@@ -70,7 +79,9 @@
       "subcategory": "fashion",
       "price": 176000,
       "discount": 10000,
-      "photo": "80222446389_01.svg"
+      "photo": "80222446389_01.svg",
+      "date": "2020-08-23T18:25:43.511Z"
+
     },
     {
       "id": 9,
@@ -79,7 +90,8 @@
       "subcategory": "miscellaneous",
       "price": 1993000,
       "discount": 0,
-      "photo": "80432406146_01.svg"
+      "photo": "80432406146_01.svg",
+      "date": "2020-09-23T18:25:43.511Z"
     },
     {
       "id": 10,
@@ -88,7 +100,9 @@
       "subcategory": "collectable",
       "price": 543400,
       "discount": 0,
-      "photo": "80432406146_01.svg"
+      "photo": "80432406146_01.svg",
+      "date": "2020-10-23T18:25:43.511Z"
+
     },
     {
       "id": 11,
@@ -97,7 +111,9 @@
       "subcategory": "vehicle",
       "price": 199300,
       "discount": 1900,
-      "photo": "36108090192_01.svg"
+      "photo": "36108090192_01.svg",
+      "date": "2020-11-23T18:25:43.511Z"
+
     },
     {
       "id": 12,
@@ -106,7 +122,8 @@
       "subcategory": "vehicle",
       "price": 193000,
       "discount": 1993,
-      "photo": "roundel-cap_623.svg"
+      "photo": "roundel-cap_623.svg",
+      "date": "2020-12-23T18:25:43.511Z"
     },
     {
       "id": 13,
@@ -115,7 +132,8 @@
       "subcategory": "vehicle",
       "price": 193000,
       "discount": 1000,
-      "photo": "emergency_tiretote_231.svg"
+      "photo": "emergency_tiretote_231.svg",
+      "date": "2019-01-23T18:25:43.511Z"
     },
     {
       "id": 14,
@@ -124,7 +142,8 @@
       "subcategory": "electronics",
       "price": 1030000,
       "discount": 193000,
-      "photo": "Vehicle_Z4_Saf_ElectronicPressureGauge.svg"
+      "photo": "Vehicle_Z4_Saf_ElectronicPressureGauge.svg",
+      "date": "2020-01-21T18:25:43.511Z"
     },
     {
       "id": 15,
@@ -133,7 +152,9 @@
       "subcategory": "electronics",
       "price": 1830000,
       "discount": 193000,
-      "photo": "Vehicle_Z4_Saf_MechanicalTireGauge.svg"
+      "photo": "Vehicle_Z4_Saf_MechanicalTireGauge.svg",
+      "date": "2020-01-20T18:25:43.511Z"
+
     },
     {
       "id": 16,
@@ -142,7 +163,9 @@
       "subcategory": "electronics",
       "price": 130000,
       "discount": 1000,
-      "photo": "m-cap_3283.svg"
+      "photo": "m-cap_3283.svg",
+      "date": "2020-01-29T18:25:43.511Z"
+
     },
     {
       "id": 17,
@@ -151,7 +174,8 @@
       "subcategory": "vehicle",
       "price": 190000,
       "discount": 1000,
-      "photo": "valve-stem-caps-nitro-2_2735.svg"
+      "photo": "valve-stem-caps-nitro-2_2735.svg",
+      "date": "2020-02-22T18:25:43.511Z"
     }
   ]
 }
