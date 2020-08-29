@@ -1,0 +1,157 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "color": "56CCF2",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 3000,
+      "photo": "80142445932_02.svg"
+    },
+    {
+      "id": 2,
+      "color": "2F80ED",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 13000,
+      "discount": 300,
+      "photo": "80142445969_01.svg"
+    },
+    {
+      "id": 3,
+      "color": "FFFFFF",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 234000,
+      "discount": 12342,
+      "photo": "80142446347_01.svg"
+    },
+    {
+      "id": 4,
+      "color": "333333",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 0,
+      "photo": "80142446411_01.svg"
+    },
+    {
+      "id": 5,
+      "color": "333333",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 0,
+      "photo": "80212454645_01.svg"
+    },
+    {
+      "id": 6,
+      "color": "333333",
+      "name": "Nombre del producto",
+      "subcategory": "miscellaneous",
+      "price": 293000,
+      "discount": 19930,
+      "photo": "80212454645_01.svg"
+    },
+    {
+      "id": 7,
+      "color": "FFFFFF",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 199398,
+      "discount": 1993,
+      "photo": "80222445947_01.svg"
+    },
+    {
+      "id": 8,
+      "color": "FFFFFF",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 176000,
+      "discount": 10000,
+      "photo": "80222446389_01.svg"
+    },
+    {
+      "id": 9,
+      "color": "F2994A",
+      "name": "Nombre del producto",
+      "subcategory": "miscellaneous",
+      "price": 1993000,
+      "discount": 0,
+      "photo": "80432406146_01.svg"
+    },
+    {
+      "id": 10,
+      "color": "F2994A",
+      "name": "Nombre del producto",
+      "subcategory": "collectable",
+      "price": 543400,
+      "discount": 0,
+      "photo": "80432406146_01.svg"
+    },
+    {
+      "id": 11,
+      "color": "F2994A",
+      "name": "Nombre del producto",
+      "subcategory": "vehicle",
+      "price": 199300,
+      "discount": 1900,
+      "photo": "36108090192_01.svg"
+    },
+    {
+      "id": 12,
+      "color": "333333",
+      "name": "Nombre del producto",
+      "subcategory": "vehicle",
+      "price": 193000,
+      "discount": 1993,
+      "photo": "roundel-cap_623.svg"
+    },
+    {
+      "id": 13,
+      "color": "F2994A",
+      "name": "Nombre del producto",
+      "subcategory": "vehicle",
+      "price": 193000,
+      "discount": 1000,
+      "photo": "emergency_tiretote_231.svg"
+    },
+    {
+      "id": 14,
+      "color": "FFFFFF",
+      "name": "Nombre del producto",
+      "subcategory": "electronics",
+      "price": 1030000,
+      "discount": 193000,
+      "photo": "Vehicle_Z4_Saf_ElectronicPressureGauge.svg"
+    },
+    {
+      "id": 15,
+      "color": "C4C4C4",
+      "name": "Nombre del producto",
+      "subcategory": "electronics",
+      "price": 1830000,
+      "discount": 193000,
+      "photo": "Vehicle_Z4_Saf_MechanicalTireGauge.svg"
+    },
+    {
+      "id": 16,
+      "color": "C4C4C4",
+      "name": "Nombre del producto",
+      "subcategory": "electronics",
+      "price": 130000,
+      "discount": 1000,
+      "photo": "m-cap_3283.svg"
+    },
+    {
+      "id": 17,
+      "color": "27AE60",
+      "name": "Nombre del producto",
+      "subcategory": "vehicle",
+      "price": 190000,
+      "discount": 1000,
+      "photo": "valve-stem-caps-nitro-2_2735.svg"
+    }
+  ]
+}
