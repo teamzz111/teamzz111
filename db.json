@@ -1,6 +1,5 @@
 {
-  "product": [
-    {
+  "product": [{
       "id": 1,
       "color": "56CCF2",
       "name": "Chaqueta sport",
@@ -107,7 +106,7 @@
     {
       "id": 11,
       "color": "F2994A",
-      "name": "Rín 8"",
+      "name": "Rín 8",
       "subcategory": "vehicle",
       "price": 199300,
       "discount": 1900,
@@ -176,6 +175,138 @@
       "discount": 1000,
       "photo": "valve-stem-caps-nitro-2_2735.svg",
       "date": "2020-02-22T18:25:43.511Z"
+    }
+  ],
+  "vehicle": [{
+      "id": 11,
+      "color": "F2994A",
+      "name": "Rín 8",
+      "subcategory": "vehicle",
+      "price": 199300,
+      "discount": 1900,
+      "photo": "36108090192_01.svg",
+      "date": "2020-11-23T18:25:43.511Z"
+  }, {
+      "id": 12,
+      "color": "333333",
+      "name": "Espejos",
+      "subcategory": "vehicle",
+      "price": 193000,
+      "discount": 1993,
+      "photo": "roundel-cap_623.svg",
+      "date": "2020-12-23T18:25:43.511Z"
+  }, {
+      "id": 13,
+      "color": "F2994A",
+      "name": "Seguro",
+      "subcategory": "vehicle",
+      "price": 193000,
+      "discount": 1000,
+      "photo": "emergency_tiretote_231.svg",
+      "date": "2019-01-23T18:25:43.511Z"
+  }, {
+      "id": 17,
+      "color": "27AE60",
+      "name": "Seguro",
+      "subcategory": "vehicle",
+      "price": 190000,
+      "discount": 1000,
+      "photo": "valve-stem-caps-nitro-2_2735.svg",
+      "date": "2020-02-22T18:25:43.511Z"
+  }],
+  "fashion": [
+    {
+      "id": 1,
+      "color": "56CCF2",
+      "name": "Chaqueta sport",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 3000,
+      "photo": "80142445932_02.svg",
+      "date": "2020-01-23T18:25:43.511Z"
+    },
+    {
+      "id": 2,
+      "color": "2F80ED",
+      "name": "Camisa sport",
+      "subcategory": "fashion",
+      "price": 13000,
+      "discount": 300,
+      "photo": "80142445969_01.svg",
+      "date": "2020-02-23T18:25:43.511Z"
+
+    }, {
+      "id": 3,
+      "color": "FFFFFF",
+      "name": "Chaqueta sport",
+      "subcategory": "fashion",
+      "price": 234000,
+      "discount": 12342,
+      "photo": "80142446347_01.svg",
+      "date": "2020-03-23T18:25:43.511Z"
+    }, {
+      "id": 4,
+      "color": "333333",
+      "name": "Chaqueta sport",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 0,
+      "photo": "80142446411_01.svg",
+      "date": "2020-04-23T18:25:43.511Z"
+
+    }, {
+      "id": 5,
+      "color": "333333",
+      "name": "Nombre del producto",
+      "subcategory": "fashion",
+      "price": 1993000,
+      "discount": 0,
+      "photo": "80212454645_01.svg",
+      "date": "2020-05-23T18:25:43.511Z"
+    }
+  ],
+  "electronics": [
+    {
+      "id": 14,
+      "color": "FFFFFF",
+      "name": "Asegurador",
+      "subcategory": "electronics",
+      "price": 1030000,
+      "discount": 193000,
+      "photo": "Vehicle_Z4_Saf_ElectronicPressureGauge.svg",
+      "date": "2020-01-21T18:25:43.511Z"
+    }, {
+      "id": 15,
+      "color": "C4C4C4",
+      "name": "Electrónica",
+      "subcategory": "electronics",
+      "price": 1830000,
+      "discount": 193000,
+      "photo": "Vehicle_Z4_Saf_MechanicalTireGauge.svg",
+      "date": "2020-01-20T18:25:43.511Z"
+
+    }, {
+      "id": 16,
+      "color": "C4C4C4",
+      "name": "Medidor de presión",
+      "subcategory": "electronics",
+      "price": 130000,
+      "discount": 1000,
+      "photo": "m-cap_3283.svg",
+      "date": "2020-01-29T18:25:43.511Z"
+
+    }
+  ],
+  "miscellaneous":[
+    {
+      "id": 6,
+      "color": "333333",
+      "name": "Carcasa",
+      "subcategory": "miscellaneous",
+      "price": 293000,
+      "discount": 19930,
+      "photo": "80212454645_01.svg",
+      "date": "2020-06-23T18:25:43.511Z"
     }
   ]
 }
