@@ -34,17 +34,12 @@
   - React Native with Redux 
   - Firebase
   - Ionic
-  
-## My top languagues
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamzz111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌱 I’m currently learning ...
 - **AWS**
 - **Native Android**
 <br/>
-  <br/>
 
 
 <p align="center">
