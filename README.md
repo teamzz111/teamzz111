@@ -7,6 +7,7 @@
 </p>
 <em>Systems Engineering student focused on Full Stack development, I am a curious person who never stops learning, I love the technology revolution, Highly devoted to his achievements <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
+ 
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- JavaScript ❤️
@@ -19,9 +20,9 @@
 	- HTML, CSS and Javascript :white_check_mark:
   - Angular, Angular Material
   - TypeScript
-	- Bootstrap, Bulma, UI Kitten
-	- React with Redux, Gatsby :electron:
-	- MonogoDB
+  - Bootstrap, Bulma, UI Kitten
+  - React with Redux, Gatsby :electron:
+  - MonogoDB
   - Express
   - MySQL
   - SQLServer
