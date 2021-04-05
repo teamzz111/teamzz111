@@ -34,9 +34,4 @@
   - Ionic
 
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teamzz111&&show_icons=true&theme=dark" alt="teamzz111's Github Stats">
-</p>  
-
-
 
